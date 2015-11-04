@@ -1,2 +1,8 @@
 4;
+
+<<<<<<< HEAD
 add a line after i created a easy_mode branch;
+||||||| merged common ancestors
+=======
+add something to test the easy_mode branch;
+>>>>>>> easy_mode
