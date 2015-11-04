@@ -1,1 +1,2 @@
 4;
+add a line after i created a easy_mode branch;
