@@ -1,1 +1,2 @@
 4;
+add something to test the easy_mode branch;
